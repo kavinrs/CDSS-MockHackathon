@@ -1,0 +1,16 @@
+Cardiovascular Disease Prevention Guidelines
+
+INTRODUCTION
+Cardiovascular disease remains the leading cause of mortality worldwide. Primary prevention strategies focus on identifying and managing modifiable risk factors including hypertension, dyslipidemia, diabetes, smoking, obesity, and physical inactivity. Evidence-based interventions can significantly reduce cardiovascular morbidity and mortality.
+
+BLOOD PRESSURE MANAGEMENT
+Optimal blood pressure control is crucial for cardiovascular disease prevention. Target blood pressure for most adults is less than 130/80 mmHg. Initial management includes lifestyle modifications such as sodium restriction (less than 2300mg daily), the DASH dietary pattern, weight loss, regular physical activity, and moderation of alcohol intake. When pharmacological intervention is required, first-line agents include thiazide diuretics, ACE inhibitors, ARBs, or calcium channel blockers.
+
+LIPID MANAGEMENT
+Statin therapy is recommended for adults aged 40-75 years with LDL cholesterol levels of 70-189 mg/dL who have a 10-year atherosclerotic cardiovascular disease risk of 7.5% or greater. High-intensity statin therapy is indicated for patients with clinical atherosclerotic cardiovascular disease, LDL cholesterol levels of 190 mg/dL or higher, or diabetic patients aged 40-75 years. Treatment goals include reducing LDL cholesterol by at least 50% from baseline or achieving an LDL level below 70 mg/dL in very high-risk patients.
+
+ANTIPLATELET THERAPY
+Low-dose aspirin (75-100mg daily) may be considered for primary prevention in adults aged 50-69 years with a 10-year cardiovascular risk of 10% or greater who are not at increased bleeding risk. The decision should be individualized, weighing the potential cardiovascular benefits against the risk of gastrointestinal bleeding. Aspirin is definitively recommended for secondary prevention in patients with established cardiovascular disease.
+
+LIFESTYLE INTERVENTIONS
+Smoking cessation is paramount for cardiovascular risk reduction. Regular aerobic exercise for at least 30 minutes on most days of the week improves cardiovascular fitness and reduces multiple risk factors. A Mediterranean-style diet rich in fruits, vegetables, whole grains, legumes, nuts, and olive oil, with moderate fish consumption, has demonstrated cardiovascular protective effects. Maintaining a healthy body weight with a BMI between 18.5-24.9 kg/m² is associated with lower cardiovascular risk.

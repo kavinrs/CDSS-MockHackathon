@@ -1,0 +1,16 @@
+Stroke Prevention Guidelines
+
+EPIDEMIOLOGY AND RISK FACTORS
+Stroke is a leading cause of death and disability worldwide. Approximately 87% of strokes are ischemic, while 13% are hemorrhagic. Major modifiable risk factors include hypertension, atrial fibrillation, diabetes mellitus, dyslipidemia, smoking, obesity, and physical inactivity. Non-modifiable risk factors include age, sex, race, and family history. Comprehensive risk factor modification is essential for both primary and secondary stroke prevention.
+
+HYPERTENSION CONTROL
+Hypertension is the most important modifiable risk factor for stroke, contributing to both ischemic and hemorrhagic stroke. Blood pressure reduction to less than 130/80 mmHg is recommended for stroke prevention. Multiple antihypertensive drug classes have demonstrated efficacy in stroke prevention, including diuretics, ACE inhibitors, ARBs, and calcium channel blockers. The specific choice should be individualized based on patient characteristics, comorbidities, and tolerability. Regular blood pressure monitoring and medication adherence are critical for sustained stroke risk reduction.
+
+ATRIAL FIBRILLATION MANAGEMENT
+Atrial fibrillation increases stroke risk approximately five-fold. Risk stratification using the CHA2DS2-VASc score guides anticoagulation decisions. Oral anticoagulation is recommended for patients with atrial fibrillation and a CHA2DS2-VASc score of 2 or greater in men or 3 or greater in women. Direct oral anticoagulants (DOACs) including dabigatran, rivaroxaban, apixaban, and edoxaban are generally preferred over warfarin due to improved safety profiles and elimination of routine monitoring requirements. For patients with contraindications to anticoagulation, left atrial appendage occlusion may be considered.
+
+LIFESTYLE AND METABOLIC FACTORS
+Diabetes management with target HbA1c less than 7.0% reduces microvascular complications and may modestly reduce stroke risk. Lipid management with statin therapy is recommended for patients with atherosclerotic disease or those at high cardiovascular risk. Smoking cessation is crucial, as smoking doubles stroke risk. Mediterranean diet patterns rich in fruits, vegetables, whole grains, fish, and olive oil demonstrate neuroprotective effects. Regular physical activity of at least 150 minutes weekly of moderate-intensity aerobic exercise reduces stroke risk by approximately 25-30%.
+
+ANTIPLATELET THERAPY
+For patients with non-cardioembolic ischemic stroke or transient ischemic attack, antiplatelet therapy is essential for secondary prevention. Aspirin 75-325mg daily, clopidogrel 75mg daily, or the combination of aspirin plus extended-release dipyridamole are acceptable options. Dual antiplatelet therapy with aspirin plus clopidogrel for 21-90 days may be considered for minor ischemic stroke or high-risk transient ischemic attack. For primary prevention, aspirin may be considered in select high-risk individuals after careful assessment of bleeding risk.

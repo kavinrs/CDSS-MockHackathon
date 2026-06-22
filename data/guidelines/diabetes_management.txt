@@ -1,0 +1,16 @@
+Type 2 Diabetes Management Guidelines
+
+OVERVIEW
+Type 2 diabetes mellitus is a chronic metabolic disorder characterized by insulin resistance and progressive beta-cell dysfunction. Effective management requires a comprehensive approach including lifestyle modifications, pharmacological interventions, and regular monitoring.
+
+GLYCEMIC CONTROL TARGETS
+The American Diabetes Association recommends an HbA1c target of less than 7.0% for most adults with diabetes. Less stringent goals (HbA1c less than 8.0%) may be appropriate for patients with limited life expectancy, advanced complications, or extensive comorbidities. Fasting plasma glucose should be maintained between 80-130 mg/dL, while postprandial glucose should remain below 180 mg/dL.
+
+PHARMACOLOGICAL TREATMENT
+Metformin is the preferred first-line pharmacological agent for type 2 diabetes unless contraindicated. The initial dose is typically 500mg once or twice daily with meals, gradually titrated to 1000mg twice daily based on tolerability and glycemic response. For patients who do not achieve target HbA1c with metformin monotherapy after three months, additional agents should be considered.
+
+LIFESTYLE MODIFICATIONS
+Medical nutrition therapy is essential for diabetes management. Patients should focus on reducing refined carbohydrates, increasing fiber intake through whole grains and vegetables, and maintaining consistent meal timing. Weight loss of 5-10% of body weight significantly improves glycemic control in overweight or obese individuals. Regular physical activity, including at least 150 minutes of moderate-intensity aerobic exercise per week, enhances insulin sensitivity and aids in weight management.
+
+MONITORING AND COMPLICATIONS
+Patients should perform self-monitoring of blood glucose according to their treatment regimen. HbA1c testing should occur quarterly for patients not meeting glycemic goals and biannually for those with stable control. Annual screening for diabetic complications includes comprehensive foot examination, dilated eye examination, urine albumin-to-creatinine ratio assessment, and serum creatinine measurement to evaluate kidney function.

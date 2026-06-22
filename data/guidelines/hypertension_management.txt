@@ -1,0 +1,13 @@
+Hypertension Management Guidelines
+
+DEFINITION AND CLASSIFICATION
+Hypertension is defined as persistently elevated blood pressure with systolic readings of 130 mmHg or higher, or diastolic readings of 80 mmHg or higher. Blood pressure is classified into categories: normal (less than 120/80 mmHg), elevated (120-129/less than 80 mmHg), stage 1 hypertension (130-139/80-89 mmHg), and stage 2 hypertension (140/90 mmHg or higher). Accurate diagnosis requires proper measurement technique and confirmation with multiple readings over time.
+
+TREATMENT GOALS
+The primary objective of hypertension treatment is to reduce cardiovascular and renal complications. Target blood pressure for most adults is less than 130/80 mmHg. For adults aged 65 years or older, a systolic blood pressure target of less than 130 mmHg is recommended if tolerated. More intensive targets may be appropriate for patients with high cardiovascular risk, while less stringent goals may be suitable for those with limited life expectancy or substantial comorbidities.
+
+LIFESTYLE MODIFICATIONS
+Non-pharmacological interventions form the foundation of hypertension management and should be recommended to all patients. Weight reduction in overweight or obese individuals can lower systolic blood pressure by approximately 5 mmHg for every 10kg of weight loss. The DASH (Dietary Approaches to Stop Hypertension) eating plan emphasizes fruits, vegetables, whole grains, and low-fat dairy products while limiting sodium intake to less than 2300mg daily, or ideally 1500mg daily for optimal blood pressure reduction. Regular aerobic exercise totaling 150 minutes weekly of moderate-intensity activity or 75 minutes of vigorous activity significantly lowers blood pressure. Alcohol consumption should be limited to no more than two drinks daily for men and one drink daily for women.
+
+PHARMACOLOGICAL TREATMENT
+For most patients with stage 1 hypertension and cardiovascular disease or 10-year cardiovascular risk of 10% or greater, or those with stage 2 hypertension, pharmacological therapy is indicated in addition to lifestyle modifications. First-line medications include thiazide or thiazide-like diuretics, ACE inhibitors, angiotensin receptor blockers, and calcium channel blockers. Combination therapy with two first-line agents from different classes is recommended for patients with blood pressure more than 20/10 mmHg above target. Treatment should be titrated monthly until blood pressure control is achieved, with medication adherence and side effects monitored at each visit.
